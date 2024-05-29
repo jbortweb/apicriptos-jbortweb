@@ -24,13 +24,13 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 1. Clona el repositorio:
 
    ```sh
-   git clone https://github.com/tuusuario/cryptoapi.git
+   git clone https://github.com/jbortweb/apicriptos-jbortweb.git
    ```
 
 2. Navega al directorio del proyecto:
 
    ```sh
-   cd cryptoapi
+   cd apicriptos-jbortweb
    ```
 
 3. Instala las dependencias:
@@ -45,7 +45,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
    npm run dev
    ```
 
-5. Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver la aplicación.
+5. Abre [http://localhost:5137](http://localhost:5137) en tu navegador para ver la aplicación.
 
 ## Uso
 
